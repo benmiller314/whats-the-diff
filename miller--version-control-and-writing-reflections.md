@@ -1,7 +1,7 @@
 # What’s the Diff? Version Control and Revision Reflections
 
-	“Version control. Always. Everywhere. For everything.”
-	 – Karl Stolley, “The Lo-Fi Manifesto 2.0”
+*“Version control. Always. Everywhere. For everything.”*
+	 *– Karl Stolley, “The Lo-Fi Manifesto 2.0”*
 
 You’ve probably been told by your teachers to “reflect on your writing.” (And if you haven’t, chances are good it’ll happen quite soon.) But what does that mean? In my experience, without specific questions to answer, a lot of students will tell me how they feel about that particular piece of writing: whether they’re happy with it or worried about it, or just happy to be done worrying about it. While that’s useful information, to be sure, if the goal is to learn from your experience to help in future writing projects, I’m more interested in what strategies or textual moves you use to revise – and in expanding the revision strategies you have experience with.
 
@@ -61,10 +61,15 @@ Working with version control – whether it’s full-on git, or a wiki, or googl
 that usually ends up meaning that you just say what happened. And there’s some real value in that. But one of the reasons it’s valuable is that documenting what happened lets you see what’s changing.
 
 
-NEED TO THINK ABOUT HOW THIS DOESN’T DUPLICATE Draftback to the Future: A Tool for Writing Process Analysis /
+NEED TO THINK ABOUT HOW THIS DOESN’T DUPLICATE Draftback to the Future: A Tool for Writing Process Analysis by Elizabeth Chamberlain (a Kairos editor, writing in JITP). /
 * Different audience (students vs. instructors)
 * Doesn’t require the Draftback plugin: we can use “native” gdoc tools, like the named revision, to enable comparisons at key “commit” points
 
+Okay, so I just (Fri 2020-08-21, 11am) reread Chamberlain's piece, and there are two things I notice. First, she also starts with the problem of vague reflections: I was possibly remembering that subconsciously when I wrote my draft. So maybe I should actively try to start in a different vein. Second, she doesn't cite Sommers, so that angle (the specific ways your writing processes are *changing*) is new in my piece. Instead, her focus is just on becoming aware of the processes at all, especially the recursiveness and interconnectedness of generating ideas, generating text, and revising both. She was interested in having students line up their expectations of what they did when they wrote with what they actually did. Third (okay, so there's another thing I noticed), the fact that Draftback includes **all** of the revisions recorded by google docs means that there's no hierarchy: major chunks of text appear and disappear in the blink of an eye during playback, while places where the typing got tricky and the writer had to go back and forth within a single sentence a few times show up as several edits (additions and subtractions), and thus play out for longer on the screen. Because it doesn't play back in real time (else we'd be watching it for days or weeks!), Draftback doesn't seem to *pause.*
+
+By contrast, a commit + diffs approach ~~forces~~ asks us to think metacognitively midway through the journey of the writing process – to pause at the end of a chunk of writing or editing and say, "where am I now? where am I going?" (Note the link to Sondra Perl & felt sense, or is that too much? Maybe worth reminding teachers to talk to their students about, I dunno. I'm clearly biased on the Sondra front.)  
+
+There are other advantages to having every change recorded, of course, the biggest of which is that you *don't* have to think about it. Until you get in the habit of writing a commit message every time you save (or stop working), it can be easy to forget about commits, and then all you have to compare is the first draft and the last, and you lose everything in between that didn't make the cut (but might still be useful in the future, for a different audience or a different purpose).
 
 You’ve probably been told by your teachers to “reflect on your writing.” (And if you haven’t, chances are good it’ll happen quite soon.) But what does that mean?
 
