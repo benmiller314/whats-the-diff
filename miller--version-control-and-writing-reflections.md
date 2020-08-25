@@ -5,12 +5,27 @@
 
 You’ve probably been told by your teachers to “reflect on your writing.” (And if you haven’t, chances are good it’ll happen quite soon.) But what does that mean? In my experience, without specific questions to answer, a lot of students will tell me how they feel about that particular piece of writing: whether they’re happy with it or worried about it, or just happy to be done worrying about it. While that’s useful information, to be sure, if the goal is to learn from your experience to help in future writing projects, I’m more interested in what strategies or textual moves you use to revise – and in expanding the revision strategies you have experience with.
 
-I’m taking the phrase “revision strategies” from one of the classic studies of writing process, by Nancy Sommers. By comparing early and late drafts, she found that beginning student writers tended to make changes at the level of word, phrase, and sentence, and that most of the word/phrase changes were substitutions: they didn’t change the overall structure or meaning. Experienced adult writers, on the other hand, tended to make more changes at larger-than-paragraph levels, like theme or section, and they did a lot more cutting and reordering. It’s an experiment everyone can try: comparing your own early and late drafts, are you operating at sentence-level and below, or do you work bigger-picture? Do you reorder and subtract, substitute or add? And do your answers change as you study writing and get more focused practice and feedback?
+I’m taking the phrase “revision strategies” from one of the classic studies of writing processes, by Nancy Sommers. By comparing early and late drafts, she found that beginning student writers tended to make changes at the level of word, phrase, and sentence, and that most of the word/phrase changes were substitutions: they didn’t change the overall structure or meaning. Experienced adult writers made those changes, too, but also tended to go beyond – they made more changes at larger-than-paragraph levels, like theme or section, and they did a lot more cutting and reordering.
+
+There's more to it than the mechanics: the differences here point to different understandings of what we're doing when we go back to something we've written and write more. I used to think my teachers assigned drafts as a way of exerting control; I thought they wanted me to trudge along at the same pace as everyone else, something I always found incredibly difficult and tiring. I never felt like I had done enough thinking by the time I turned stuff in – or, often, I didn't turn anything in, because I felt like I was supposed to have a finished thesis by the time the draft was through. If you're imagining a draft as essentially a finished version of your ideas, then it makes sense that revision would look like tightening up the phrasing here or polishing the flourishes there. (Or, if you're not finished, that any new additions belong at the end of the piece.)
+
+But what I've come to realize – in part, thanks to Nancy Sommers and other comp/rhet researchers – is that there's another way to think about revision and drafts. Someone who goes in
+
+
+
+If all the addition happens at the end of the draft, then chances are we're continuing an unfinished line of thought, but not necessarily using that new thinking to re-evaluate the thoughts that got us there.
+
+
+
+Someone who goes in and adds a whole paragraph in the middle, though, is probably realizing something needed to be
+
+ the reasons someone might want to insert a whole paragraph in the middle, or take the final sentence of a section and make it the first, are different than the reasons
+
+It’s an experiment everyone can try: comparing your own early and late drafts, are you operating at sentence-level and below, or do you work bigger-picture? Do you reorder and subtract, substitute or add? And do your answers change as you study writing and get more focused practice and feedback?
 
 But it’s not always easy, in the thick of the writing or after pushing through the thicket, to remember what turns you took, or why; sometimes the new versions just replace what you’d done before, whether figuratively in your memory or literally on your hard drive. In this essay, I want to make the case for using version control technology to help track and make visible what’s changing in the course of a writing project, so you can then assess how “what changes” has changed in the course of a writing class.
 
 A version control system (VCS) is software that can store and display the whole history of a project, including the differences (the “diffs”) between points in that history. As a bonus, a VCS It’s a mainstay of computer programming, especially in the context of collaborative projects shared on GitHub, but it’s also the tool driving a history tab on Wikipedia, and it’s just as helpful for a solo project. The best VCSes prompt (or even require) you to write a short summary of what’s new with each new snapshot you save. When I use a GUI like GitHub Desktop, it visually shows me the changes as I’m writing the message, which in turn prompts me to reflect on what’s actually changed, what’s added, what’s taken away… or if I’m just refining in place. (Not that there’s anything wrong with that. Sometimes.)
-
 
 
 
