@@ -3,6 +3,24 @@
 *“Version control. Always. Everywhere. For everything.”*
 	 *– Karl Stolley, “The Lo-Fi Manifesto 2.0”*
 
+
+Do you ever wonder what you're supposed to learn in a writing class? And please don't just say "to write": if there's one thing we've found in the last sixty years or so of research on writing, it's that writing situations are incredibly varied; there is no one thing called "how to write" that anyone can pick up in 15 weeks, or a year. E. Shelley Reid, a stand-out teacher of writing teachers, has made the case that we're really working on *how to deal with writing problems*: how to identify them, some strategies to try for the ones we know, and the confidence to keep trying even if the problem hasn't gone away. Because the truth is, even expert, professional writers face writing problems. (And solving some problems often introduces new ones.) Some people just have more practice in surmounting them.
+
+I'm not going to recap Reid's whole argument (though I do highly recommend her Writing Spaces essay on "Ten Metaphors for Writing"). Suffice it to say, one skillset you should build over the course of a writing class – not the only one, but an important one – is a widening set of *revision strategies*: different ways to step into a draft and take it to the next level. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You’ve probably been told by your teachers to “reflect on your writing.” (And if you haven’t, chances are good it’ll happen quite soon.) But what does that mean? In my experience, without specific questions to answer, a lot of students will tell me how they feel about that particular piece of writing: whether they’re happy with it or worried about it, or just happy to be done worrying about it. While that’s useful information, to be sure, if the goal is to learn from your experience to help in future writing projects, I’m more interested in what strategies or textual moves you use to revise – and in expanding the revision strategies you have experience with.
 
 I’m taking the phrase “revision strategies” from one of the classic studies of writing processes, by Nancy Sommers. By comparing early and late drafts, she found that beginning student writers tended to make changes at the level of word, phrase, and sentence, and that most of the word/phrase changes were substitutions: they didn’t change the overall structure or meaning. Experienced adult writers made those changes, too, but also tended to go beyond – they made more changes at larger-than-paragraph levels, like theme or section, and they did a lot more cutting and reordering.
