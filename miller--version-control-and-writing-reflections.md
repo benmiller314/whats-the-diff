@@ -22,9 +22,7 @@ There are lots of was to see what's changed between drafts. Both Microsoft Word 
 
 One potential problem with this approach, though, is that a lot of changes happen *between* submissions. If you're only saving a file as "draft" or "final," there's a good chance you're saving over the many revision steps you took in the process of getting to the version you turn in or send out. You could try to get around this by saving lots of interim drafts under separate names, but that makes for a lot of clutter in your file system. (I think my 10-page dissertation proposal got up to something like "draft 23" before I finally submitted it.) On top of which, all that duplication starts to eat away at your hard drive space.
 
-A better solution is a *version control system*, or VCS. A VCS is software specifically designed to efficiently store and display the whole history of a project, including the diffs between points in that history. You get to keep the same filename throughout. (Or, if you change the filename, that change is itself stored as a diff.)
-The terminology of version "control" comes from computer programming, where it's a mainstay of collaborative projects that continue to evolve after they've been published: the system helps contributors get up to speed on what's happened before, and prevents them from overwriting each other's work willy-nilly.
- If you’ve written with Google Docs, you’ve had one kind of VCS at work – it saves changes down to the second, and lets you browse the version history. (Look for it under the File menu.) <Insert fig01 around here> Wikis, too, store a history of each edit, in part so editors can recover text that shouldn’t have been deleted. (And it's easier to make hard cuts, like whole paragraphs, when you know you have that safety net just in case.)
+A better solution is a *version control system*, or VCS. A VCS is software specifically designed to efficiently store and display the whole history of a project, including the diffs between points in that history. You get to keep the same filename throughout. (Or, if you change the filename, that change is itself stored as a diff.) If you’ve written with Google Docs, you’ve had one kind of VCS at work – it saves changes down to the second, and lets you browse the version history. (Look for it under the File menu.) <Insert fig01 around here> Wikis, too, store a history of each edit, in part so editors can recover text that shouldn’t have been deleted. (And it's easier to make hard cuts, like whole paragraphs, when you know you have that safety net just in case.)
 
 
 
@@ -32,6 +30,12 @@ But the best VCSes don’t just save for you: they invite (or even require) a sh
 
 
 
+
+
+
+
+
+The terminology of version "control" comes from computer programming, where it's a mainstay of collaborative projects that continue to evolve after they've been published: the system helps contributors get up to speed on what's happened before, and prevents them from overwriting each other's work willy-nilly.
 
 But version control is just as helpful for a solo project.  The best VCSes prompt (or even require) you to write a short summary of what’s new with each new snapshot you save. My preferred tool, GitHub Desktop, visually shows me the changes as I’m writing the message, which in turn prompts me to reflect on what’s actually changed, what’s added, what’s taken away... and what I was trying to do when I made those changes.
 
