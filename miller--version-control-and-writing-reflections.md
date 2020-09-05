@@ -52,7 +52,7 @@ Wouldn't it be nice, then, if there were a way to combine Google Docs' frequent 
 
 ## To sum up
 
-
+It’s not always easy, in the thick of the writing or after pushing through the thicket, to remember what turns you took, or why; sometimes the new versions just replace what you’d done before, whether figuratively in your memory or literally on your hard drive. Using version control technology can help you track and make visible what’s changing in the course of a writing project, so you can then assess how “what changes” has changed in the course of a writing class.
 
 
 
@@ -82,11 +82,6 @@ Someone who goes in and adds a whole paragraph in the middle, though, is probabl
  the reasons someone might want to insert a whole paragraph in the middle, or take the final sentence of a section and make it the first, are different than the reasons
 
 It’s an experiment everyone can try: comparing your own early and late drafts, are you operating at sentence-level and below, or do you work bigger-picture? Do you reorder and subtract, substitute or add? And do your answers change as you study writing and get more focused practice and feedback?
-
-But it’s not always easy, in the thick of the writing or after pushing through the thicket, to remember what turns you took, or why; sometimes the new versions just replace what you’d done before, whether figuratively in your memory or literally on your hard drive. In this essay, I want to make the case for using version control technology to help track and make visible what’s changing in the course of a writing project, so you can then assess how “what changes” has changed in the course of a writing class.
-
-
-
 
 
 
